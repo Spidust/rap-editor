@@ -3,7 +3,7 @@ export default function () {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-          Navbar
+          Rap editor
         </a>
         <button
           className="navbar-toggler"
